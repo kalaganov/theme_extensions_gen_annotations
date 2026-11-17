@@ -2,7 +2,7 @@ name: theme_extensions_gen_annotations
 description: >
   Annotations for the theme_extensions_gen code generator.
   This package is intended to be used alongside the theme_extensions_gen package.
-version: 0.2.0
+version: 0.2.1
 repository: https://github.com/kalaganov/theme_extensions_gen_annotations
 issue_tracker: https://github.com/kalaganov/theme_extensions_gen_annotations/issues
 
