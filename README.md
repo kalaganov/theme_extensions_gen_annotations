@@ -93,6 +93,9 @@ List<ThemeExtension<dynamic>> someFeatureDarkThemeExtensions() => const [
 ];
 ```
 
+A list typed `List<ThemeExtension<dynamic>>` needs theme_extensions_gen 1.3.0 or later;
+earlier versions accept only `List<ThemeExtension>`.
+
 The generator then combines all matching lists into:
 
 - A default file with a `List<ThemeExtension> get themeExtensions` that holds

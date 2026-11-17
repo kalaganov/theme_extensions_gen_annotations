@@ -4,7 +4,7 @@
 
 - Fixed the `build.yaml` examples in the README: `theme_extensions_gen:` builder prefixes, `output_groups` instead of `groups`, paths relative to `lib/`
 - README examples use the concise factory constructor and `package:material_ui`
-- Added `package:lints` analysis options; the library directive no longer carries a name
+- Added analysis options (the very_good_analysis rule set, written out with no lint dependency); the library directive no longer carries a name
 
 ## [0.2.0] – Pub.dev compatibility
 
